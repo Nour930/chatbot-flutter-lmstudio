@@ -34,22 +34,19 @@ Ce projet est une application mobile Flutter intégrée avec **LM Studio** et **
 
 ```bash
 flutter pub get
-flutter run'''
+flutter run
+```
 
-🔐 Fichier utilisateur local
+🔐 **Fichier utilisateur local**  
 Les utilisateurs sont enregistrés localement dans un fichier texte ou JSON (selon ta version). Cela permet de tester l’authentification sans base de données externe.
 
-🛠️ Technologies utilisées
-Flutter
+🛠️ **Technologies utilisées**  
+- Flutter  
+- Dart  
+- LM Studio (serveur d’API local)  
+- Mistral 7B Instruct  
+- Material Design 3
 
-Dart
-
-LM Studio (serveur d’API local)
-
-Mistral 7B Instruct
-
-Material Design 3
-
-👩‍💻 Auteure
-Nour Chamakh
+👩‍💻 **Auteure**  
+Nour Chamakh  
 Projet réalisé dans le cadre d’un stage pratique de développement mobile.
