@@ -36,7 +36,7 @@ Ce projet est une application mobile Flutter intégrée avec **LM Studio** et **
 flutter pub get
 flutter run
 
-🔐 Fichier utilisateur local
+###🔐 Fichier utilisateur local
 Les utilisateurs sont enregistrés localement dans un fichier texte ou JSON (selon ta version). Cela permet de tester l’authentification sans base de données externe.
 
 🛠️ Technologies utilisées
